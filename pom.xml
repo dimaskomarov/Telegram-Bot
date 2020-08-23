@@ -49,7 +49,7 @@
                         <assembleDirectory>target</assembleDirectory>
                         <programs>
                             <program>
-                                <mainClass>ua.home.dima.App</mainClass>
+                                <mainClass>App</mainClass>
                                 <name>telegramBot</name>
                             </program>
                         </programs>
