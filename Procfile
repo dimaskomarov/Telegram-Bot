@@ -1,1 +1,1 @@
-web: java -cp TelegramBot-1.0-SNAPSHOT.jar ua.home.dima.App
+web: java $JAVA_OPTS -cp target/TelegramBot-1.0-SNAPSHOT.jar ua.home.dima.App
