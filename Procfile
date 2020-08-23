@@ -1,1 +1,1 @@
-web: sh target/bin/telegramBot
+web: java -jar target/TelegramBot-1.0-SNAPSHOT.jar
