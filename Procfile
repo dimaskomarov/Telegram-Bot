@@ -1,1 +1,1 @@
-web: java -cp TelegramBot-1.0-SNAPSHOT.jar classes.ua.home.dima.App
+web: java -cp TelegramBot-1.0-SNAPSHOT.jar ua.home.dima.App
