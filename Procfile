@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* ua.home.dima.App
+web:    java $JAVA_OPTS -jar target/TelegramBot-1.0-SNAPSHOT.jar --port $PORT target/*.war
